@@ -22,3 +22,42 @@ border-radius: 5px;
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    border-radius: 30px;
+    padding: 10px 25px;
+
+ 
+}
+.cat1{
+    background-color: rgb(255, 184, 53);
+
+  
+}
+.cat2{
+    background-color: palevioletred;
+}
+.cat3{
+    background-color: rgb(87, 87, 243);
+}
+.container .categories{
+    padding: 10px 20px;
+    margin-right: 20px;
+    width: 100px;
+
+}
+.categories h1{
+    color: white;
+
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 5px;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
